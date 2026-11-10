@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZPOjFjwLW+w=",
+  "success": true,
+  "projectFilePath": "/home/zander/Projects/C#/ZanderGameCoreCS/ZanderGameCoreCs.csproj",
+  "expectedPackageFiles": [
+    "/home/zander/.nuget/packages/monogame.framework.native/3.8.6.1/monogame.framework.native.3.8.6.1.nupkg.sha512",
+    "/home/zander/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.12/microsoft.aspnetcore.app.ref.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
